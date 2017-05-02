@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2",
-    "yup": "git+https://github.com/jbinto/yup"
+    "express": "^4.15.2"
   }
 }
